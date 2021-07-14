@@ -1,0 +1,10 @@
+ChatbotWebInterface.templates package
+=====================================
+
+Module contents
+---------------
+
+.. automodule:: ChatbotWebInterface.templates
+   :members:
+   :undoc-members:
+   :show-inheritance:

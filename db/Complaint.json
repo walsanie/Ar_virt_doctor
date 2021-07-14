@@ -1,0 +1,158 @@
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea80\")","﻿Class":"Complaint","Focus":"sleeping issues","Output":"Give me more details… like what are the reasons?"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea81\")","﻿Class":"Complaint","Focus":"not able to sleep","Output":"Give me more details… like what are the reasons?"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea82\")","﻿Class":"Complaint","Focus":"very hard to sleep","Output":"Give me more details… like what are the reasons?"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea83\")","﻿Class":"Complaint","Focus":"difficult to sleep","Output":"Give me more details… like what are the reasons?"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea84\")","﻿Class":"Complaint","Focus":"cannot sleep well","Output":"Give me more details… like what are the reasons?"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea85\")","﻿Class":"Complaint","Focus":"feel sleepy","Output":"Drink coffee "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea86\")","﻿Class":"Complaint","Focus":"tired in the morning","Output":" Drink coffee and get enough sleep at night"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea87\")","﻿Class":"Complaint","Focus":"trouble sleeping early ","Output":"Here are some tips to help you: Cut out caffeine"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea88\")","﻿Class":"Complaint","Focus":"feel weak","Output":"Eat healthy and exercise more"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea89\")","﻿Class":"Complaint","Focus":"don't feel energetic ","Output":"Drink coffee and eat breakfast "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea8a\")","﻿Class":"Complaint","Focus":"don't feel energetic ","Output":"Drink coffee and eat breakfast "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea8b\")","﻿Class":"Complaint","Focus":"lazy in the morning","Output":"Drink coffee and eat breakfast "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea8c\")","﻿Class":"Complaint","Focus":"keep sneezing","Output":"Try to Pinch your nose or Use your tongue"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea8d\")","﻿Class":"Complaint","Focus":"about to sneeze ","Output":"Use tissue "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea8e\")","﻿Class":"Complaint","Focus":"sneezing all day","Output":"Try to Pinch your nose or Use your tongue"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea8f\")","﻿Class":"Complaint","Focus":"backache","Output":"Applying a hot compress or an ice pack to the painful area may reduce pain."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea90\")","﻿Class":"Complaint","Focus":"sore back","Output":"Applying a hot compress or an ice pack to the painful area may reduce pain."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea91\")","﻿Class":"Complaint","Focus":" back pain","Output":"Applying a hot compress or an ice pack to the painful area may reduce pain."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea92\")","﻿Class":"Complaint","Focus":"back hurts","Output":"Applying a hot compress or an ice pack to the painful area may reduce pain."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea93\")","﻿Class":"Complaint","Focus":"back aches","Output":"Applying a hot compress or an ice pack to the painful area may reduce pain."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea94\")","﻿Class":"Complaint","Focus":"pain in my stomach","Output":"Here’s some ways to get rid of your pain: Bitters and soda Ginger Chamomile tea"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea95\")","﻿Class":"Complaint","Focus":"stomach hurts","Output":"Here’s some ways to get rid of your pain: Bitters and soda Ginger Chamomile tea"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea96\")","﻿Class":"Complaint","Focus":"stomach aches","Output":"Here’s some ways to get rid of your pain: Bitters and soda Ginger Chamomile tea"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea97\")","﻿Class":"Complaint","Focus":"abdominal pain","Output":"Here’s some ways to get rid of your pain: Bitters and soda Ginger Chamomile tea"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea98\")","﻿Class":"Complaint","Focus":"stomach ache","Output":"Here’s some ways to get rid of your pain: Bitters and soda Ginger Chamomile tea"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea99\")","﻿Class":"Complaint","Focus":"indigestion","Output":"* Stop Eating too much"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea9a\")","﻿Class":"Complaint","Focus":"not digesting","Output":"* Stop Eating too much"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea9b\")","﻿Class":"Complaint","Focus":"upset stomach","Output":"Here’s some ways to get rid of your pain: Bitters and soda Ginger Chamomile tea"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea9c\")","﻿Class":"Complaint","Focus":" throwing up","Output":"Stop eating and go see a doctor "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea9d\")","﻿Class":"Complaint","Focus":"vomiting","Output":"Stop eating and go see a doctor "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea9e\")","﻿Class":"Complaint","Focus":"have an allergy","Output":"Stop touching it and go to a doctor "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ea9f\")","﻿Class":"Complaint","Focus":"skin rashes","Output":"Try to use aloe vera gel or go to see a doctor "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaa0\")","﻿Class":"Complaint","Focus":"body feels itchy","Output":"Don’t touch or scratch it and go see doctor "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaa1\")","﻿Class":"Complaint","Focus":"scratch my body","Output":"Don’t touch or scratch it and go see doctor "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaa2\")","﻿Class":"Complaint","Focus":"have rashes","Output":"You should go see your doctor "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaa3\")","﻿Class":"Complaint","Focus":"skin is burnt","Output":"Use some gel and if it was serious go to a doctor "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaa4\")","﻿Class":"Complaint","Focus":"dehyderated","Output":"Dehydration nust be treated by replenishing the fluid level in the body "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaa5\")","﻿Class":"Complaint","Focus":"muscle ache","Output":"Take some rest and put ice on the muscle "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaa6\")","﻿Class":"Complaint","Focus":" joint ache","Output":"Take some rest "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaa7\")","﻿Class":"Complaint","Focus":"feel bloated","Output":"Don't Eat Too Much at a Time Rule Out Food Allergies and Intolerances to Common Foods Avoid Swallowing Air and Gases Don't Eat Foods That Give You Gas"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaa8\")","﻿Class":"Complaint","Focus":"loss of smell","Output":"If nasal congestion from a cold or allergy is the cause of anosmia"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaa9\")","﻿Class":"Complaint","Focus":"loss of taste","Output":"Treating the underlying condition that causes your impaired sense of taste can help restore your taste."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaaa\")","﻿Class":"Complaint","Focus":" swollen lymph nodes","Output":"Swollen lymph nodes may become smaller on their own without any treatment. "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaab\")","﻿Class":"Complaint","Focus":"difficulty breathing deeply","Output":"Better to go see your doctor "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaac\")","﻿Class":"Complaint","Focus":"chest discomfort","Output":"Try to breathe right or go see your doctor "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaad\")","﻿Class":"Complaint","Focus":"headache around my eyes and nose","Output":"You can take over-the-counter (OTC) pain medications"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaae\")","﻿Class":"Complaint","Focus":"exhaused during activities","Output":"Make sure that you eat healthy diet and drink enough water and breathe correctly "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaaf\")","﻿Class":"Complaint","Focus":"difficulty walking","Output":"Make sure that you eat healthy diet and drink enough water and breathe correctly "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eab0\")","﻿Class":"Complaint","Focus":"difficulty running","Output":"Make sure that you eat healthy diet and drink enough water and breathe correctly "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eab1\")","﻿Class":"Complaint","Focus":" cold sweat","Output":"Try to find a way to relax"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eab2\")","﻿Class":"Complaint","Focus":"shortness of breath","Output":"Better to go see your doctor "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eab3\")","﻿Class":"Complaint","Focus":" have bruises ","Output":"This may be a sign for illness go see your doctor "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eab4\")","﻿Class":"Complaint","Focus":"have an inflammation","Output":"Antibiotics or antiviral medication will be used if there is an infection."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eab5\")","﻿Class":"Complaint","Focus":"swelling around eyes","Output":"Generally"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eab6\")","﻿Class":"Complaint","Focus":"have a swelling","Output":"Massage the area Reduce salt intake. Cold compress"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eab7\")","﻿Class":"Complaint","Focus":"have bad breath","Output":"Brush your teeth and use dental floss "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eab8\")","﻿Class":"Complaint","Focus":"have a dry lips","Output":"Use natural oils and drink water "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eab9\")","﻿Class":"Complaint","Focus":"hungry","Output":"You may feel hungry frequently if your diet lacks protein"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaba\")","﻿Class":"Complaint","Focus":"addicted to binging","Output":"A nutritionist"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eabb\")","﻿Class":"Complaint","Focus":"","Output":"What's the problem?"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eabc\")","﻿Class":"Complaint","Focus":"cold","Output":"You can have pain relievers for fever"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eabd\")","﻿Class":"Complaint","Focus":"flu","Output":"You can have pain relievers for fever"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eabe\")","﻿Class":"Complaint","Focus":"fever","Output":"Fevers generally go away within a few days. So you can rest and have plent of fluids to prevent dehydration. You can see a doctor if your temperature is higher than 39C to prescribe you medications. "}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eabf\")","﻿Class":"Complaint","Focus":"cold","Output":"You can have pain relievers for fever"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eac0\")","﻿Class":"Complaint","Focus":"pain","Output":"What's the problem?"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eac1\")","﻿Class":"Complaint","Focus":"head hurt","Output":"The most common ways of treating headaches are rest and pain relief medication. You can also apply a heat pack or ice pack to your head or neck"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eac2\")","﻿Class":"Complaint","Focus":"head aches","Output":"The most common ways of treating headaches are rest and pain relief medication. You can also apply a heat pack or ice pack to your head or neck"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eac3\")","﻿Class":"Complaint","Focus":"headache","Output":"The most common ways of treating headaches are rest and pain relief medication. You can also apply a heat pack or ice pack to your head or neck"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eac4\")","﻿Class":"Complaint","Focus":"stomach ache","Output":"Abdominal pain can be caused by many conditions. However"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eac5\")","﻿Class":"Complaint","Focus":"head aches","Output":"The most common ways of treating headaches are rest and pain relief medication. You can also apply a heat pack or ice pack to your head or neck"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eac6\")","﻿Class":"Complaint","Focus":"head hurt","Output":"The most common ways of treating headaches are rest and pain relief medication. You can also apply a heat pack or ice pack to your head or neck"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eac7\")","﻿Class":"Complaint","Focus":"headache","Output":"The most common ways of treating headaches are rest and pain relief medication. You can also apply a heat pack or ice pack to your head or neck"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eac8\")","﻿Class":"Complaint","Focus":"head pain","Output":"The most common ways of treating headaches are rest and pain relief medication. You can also apply a heat pack or ice pack to your head or neck"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eac9\")","﻿Class":"Complaint","Focus":"heavy head","Output":"Getting enough sleep"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaca\")","﻿Class":"Complaint","Focus":"dizzy","Output":"Dizziness often gets better without treatment. Within a couple of weeks"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eacb\")","﻿Class":"Complaint","Focus":"spinning head","Output":"Dizziness often gets better without treatment. Within a couple of weeks"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eacc\")","﻿Class":"Complaint","Focus":"forhead hurt","Output":"Forehead pain is also commonly caused by tension headaches due to stress or muscle tightness in the neck"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eacd\")","﻿Class":"Complaint","Focus":"eyes hurt","Output":"You should consider any eye pain an emergency. See an eye doctor as soon as possible to determine the exact cause of the pain and receive the right eye pain treatment."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eace\")","﻿Class":"Complaint","Focus":"heavy eyes","Output":"You should consider any eye pain an emergency. See an eye doctor as soon as possible to determine the exact cause of the pain and receive the right eye pain treatment."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eacf\")","﻿Class":"Complaint","Focus":"eye problem","Output":"You should consider any eye pain an emergency. See an eye doctor as soon as possible to determine the exact cause of the pain and receive the right eye pain treatment."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ead0\")","﻿Class":"Complaint","Focus":"red eye","Output":"If your eye does not hurt and your sight is not affected"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ead1\")","﻿Class":"Complaint","Focus":"cannot see clearly","Output":"You should see a doctor"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ead2\")","﻿Class":"Complaint","Focus":"eyes sore","Output":"The most common cause is conjunctivitis"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ead3\")","﻿Class":"Complaint","Focus":"irritated eyes","Output":"There are many possible causes of eye irritation. The type of treatment that you receive is dependent on what’s causing your eye irritation and can range from medicated eye drops to surgical procedures."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ead4\")","﻿Class":"Complaint","Focus":"black eye","Output":"Black eyes due to a minor injury can be treated with ice"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ead5\")","﻿Class":"Complaint","Focus":"anxious","Output":"There are several way to reduce stress and anxiety. Including: taking a walk"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ead6\")","﻿Class":"Complaint","Focus":"stressed","Output":"There are several way to reduce stress and anxiety. Including: taking a walk"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ead7\")","﻿Class":"Complaint","Focus":"don't feel calmed","Output":"There are several way to reduce stress and anxiety. Including: taking a walk"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ead8\")","﻿Class":"Complaint","Focus":"don't feel relaxed","Output":"There are several way to reduce stress and anxiety. Including: taking a walk"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113ead9\")","﻿Class":"Complaint","Focus":"body hurt","Output":"You may just need rest and some treatment at home to relieve your body aches. But some aches"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eada\")","﻿Class":"Complaint","Focus":"body pain ","Output":"You may just need rest and some treatment at home to relieve your body aches. But some aches"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eadb\")","﻿Class":"Complaint","Focus":"body exhausted","Output":"You may just need rest and some treatment at home to relieve your body aches. But some aches"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eadc\")","﻿Class":"Complaint","Focus":"body aches","Output":"You may just need rest and some treatment at home to relieve your body aches. But some aches"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eadd\")","﻿Class":"Complaint","Focus":"body numb","Output":"There are varied causes of numbness and tingling"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eade\")","﻿Class":"Complaint","Focus":"body shaking","Output":"Shivering is usually temporary. If it occurs due to a fever"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eadf\")","﻿Class":"Complaint","Focus":"body trembilling","Output":"Shivering is usually temporary. If it occurs due to a fever"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eae0\")","﻿Class":"Complaint","Focus":"balancing issues","Output":"Many medical conditions can cause balance problems. However"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eae1\")","﻿Class":"Complaint","Focus":"loss of balance","Output":"Many medical conditions can cause balance problems. However"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eae2\")","﻿Class":"Complaint","Focus":"faint","Output":"Fainting isn’t usually a cause for concern"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eae3\")","﻿Class":"Complaint","Focus":"Sore throat","Output":"Regardless of the cause of your sore throat"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eae4\")","﻿Class":"Complaint","Focus":"throat ache","Output":"Regardless of the cause of your sore throat"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eae5\")","﻿Class":"Complaint","Focus":"Itchy throat","Output":"There are many popular home remedies for itchy throat. Gargle with salt water"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eae6\")","﻿Class":"Complaint","Focus":"Throat hurt","Output":"Regardless of the cause of your sore throat"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eae7\")","﻿Class":"Complaint","Focus":"Dry throat","Output":"Usually"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eae8\")","﻿Class":"Complaint","Focus":"Cracky voice ","Output":"Hoarseness is typically caused by a viral infection in the upper respiratory tract. There are other factors that cause"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eae9\")","﻿Class":"Complaint","Focus":"Voice cracking ","Output":"Hoarseness is typically caused by a viral infection in the upper respiratory tract. There are other factors that cause"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaea\")","﻿Class":"Complaint","Focus":"Cracky voice ","Output":"Hoarseness is typically caused by a viral infection in the upper respiratory tract. There are other factors that cause"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaeb\")","﻿Class":"Complaint","Focus":"Runny nose","Output":"A runny nose can be caused by anything that irritates or inflames the nasal tissues. Try these simple steps to relieve symptoms: sniffing and swallowing or gently blowing your nose. Avoid known allergic triggers. Drink plenty of water. Try nasal saline sprays or rinses."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaec\")","﻿Class":"Complaint","Focus":"Stuffy nose","Output":"Regardless of the reason for your stuffed-up nose"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaed\")","﻿Class":"Complaint","Focus":"Congested nose","Output":"Regardless of the reason for your stuffed-up nose"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaef\")","﻿Class":"Complaint","Focus":"Can't breathe","Output":"There are several causes of breathing difficulty. Treatments for breathing difficulties will depend on the underlying cause."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaf0\")","﻿Class":"Complaint","Focus":"Cannot breathe ","Output":"There are several causes of breathing difficulty. Treatments for breathing difficulties will depend on the underlying cause."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaf1\")","﻿Class":"Complaint","Focus":"Breathing issues ","Output":"There are several causes of breathing difficulty. Treatments for breathing difficulties will depend on the underlying cause."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaf2\")","﻿Class":"Complaint","Focus":"Difficult breathe","Output":"There are several causes of breathing difficulty. Treatments for breathing difficulties will depend on the underlying cause."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaf3\")","﻿Class":"Complaint","Focus":"Panting ","Output":"There are several causes of breathing difficulty. Treatments for breathing difficulties will depend on the underlying cause."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaf4\")","﻿Class":"Complaint","Focus":"Swelling neck ","Output":"Most neck lumps aren’t harmful. Most are also benign"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaf5\")","﻿Class":"Complaint","Focus":"Sore neck","Output":"Most neck pain improves gradually with home treatment. If not"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaf7\")","﻿Class":"Complaint","Focus":"Strained neck","Output":"Ways to help relieve neck stiffness and pain: Stretch"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaf8\")","﻿Class":"Complaint","Focus":"Not able to move my neck","Output":"Ways to help relieve neck stiffness and pain: Stretch"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaf9\")","﻿Class":"Complaint","Focus":"Tooth hurt","Output":"There are some home treatments you can try to help with the pain. Keep your head elevated. Avoid eating acidic"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eafa\")","﻿Class":"Complaint","Focus":"Tooth broke ","Output":"A tooth with a minor crack or chip can wait for medical attention"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eafb\")","﻿Class":"Complaint","Focus":"Tooth bleeding","Output":"Identifying the cause of bleeding gums is key to determining the most appropriate treatment. See a dentist if gum bleeding doesn’t improve within 7 to 10 days."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eafc\")","﻿Class":"Complaint","Focus":"Tooth ache","Output":"There are some home treatments you can try to help with the pain. Keep your head elevated. Avoid eating acidic"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eafd\")","﻿Class":"Complaint","Focus":"Gum hurt","Output":"If your only symptom is gum pain"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eafe\")","﻿Class":"Complaint","Focus":"Gum bleeding ","Output":"Identifying the cause of bleeding gums is key to determining the most appropriate treatment. See a dentist if gum bleeding doesn’t improve within 7 to 10 days."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eaff\")","﻿Class":"Complaint","Focus":"Gum hurts","Output":"If your only symptom is gum pain"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb00\")","﻿Class":"Complaint","Focus":"Jaw pain","Output":"Most jaw pain is due to an abnormality or injury to the joint of your jaw"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb02\")","﻿Class":"Complaint","Focus":"Neck pain","Output":"Ways to help relieve neck stiffness and pain: Stretch"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb03\")","﻿Class":"Complaint","Focus":"stretch marks ","Output":"The best treatment for stretch marks appears to be prevention. By keeping your skin hydrated"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb04\")","﻿Class":"Complaint","Focus":" acne on skin","Output":"If self-care remedies don't clear your acne"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb05\")","﻿Class":"Complaint","Focus":" pimples","Output":"Acne is a common skin disorder"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb06\")","﻿Class":"Complaint","Focus":" sun burnt","Output":"Take frequent cool baths or showers to help relieve the pain. Use a moisturizer that contains aloe vera or soy to help soothe sunburned skin. Drink extra water."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb07\")","﻿Class":"Complaint","Focus":" loss of sensation","Output":"Treatments for numbness of limbs depend upon the cause identified by your doctor."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb08\")","﻿Class":"Complaint","Focus":" tingling feeling","Output":"Treatments for numbness of limbs depend upon the cause identified by your doctor."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb09\")","﻿Class":"Complaint","Focus":"feel numb","Output":"Treatments for numbness of limbs depend upon the cause identified by your doctor."}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb0a\")","﻿Class":"Complaint","Focus":"difficult to sit still","Output":"You may be able to make changes that improve your ability to concentrate if it is lifestyle related. Examples include: eating a balanced diet with whole grains"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb0b\")","﻿Class":"Complaint","Focus":"difficult to think clearly","Output":"You may be able to make changes that improve your ability to concentrate if it is lifestyle related. Examples include: eating a balanced diet with whole grains"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb0c\")","﻿Class":"Complaint","Focus":"not able to focus well","Output":"You may be able to make changes that improve your ability to concentrate if it is lifestyle related. Examples include: eating a balanced diet with whole grains"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb0d\")","﻿Class":"Complaint","Focus":"unable to remember things easily","Output":"You may be able to make changes that improve your ability to concentrate if it is lifestyle related. Examples include: eating a balanced diet with whole grains"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb0e\")","﻿Class":"Complaint","Focus":"difficult to fall asleep","Output":""}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb0f\")","﻿Class":"Complaint","Focus":" racing heart","Output":"Because palpitations come and go"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb10\")","﻿Class":"Complaint","Focus":"rapid heart rate","Output":"Because palpitations come and go"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb11\")","﻿Class":"Complaint","Focus":" pounding heart rate","Output":"Because palpitations come and go"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb12\")","﻿Class":"Complaint","Focus":"waking up too early ","Output":"There are several reasons why you might wake up earlier than you want to and with fewer hours of sleep than you’re used to getting. These reasons include the following: Anxiety - Insomnia - Pregnancy"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb13\")","﻿Class":"Complaint","Focus":"unrefreshing sleep","Output":"Doctors often recommend approaches such as learning relaxation techniques"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb14\")","﻿Class":"Complaint","Focus":"frequent mood changes","Output":"It’s common to experience a change in mood occasionally or to go through a short period of feeling elated or blue. But if your behavior is unpredictable for a number of days or longer"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb15\")","﻿Class":"Complaint","Focus":"frequently feel irritable","Output":"Some common psychological causes of irritability include: stress anxiety depression bipolar disorder schizophrenia autism Some common physical causes include: sleep deprivation low blood sugar ear infections toothaches diabetes flu"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb16\")","﻿Class":"Complaint","Focus":"rapid breathing","Output":"There are several reasons"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb17\")","﻿Class":"Complaint","Focus":" feel restless","Output":"You can try a few things at home before seeking medical attention for restlessness. Try reducing caffeine Never stop taking or adjust medication doses without asking your doctor. Exercise"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb18\")","﻿Class":"Complaint","Focus":"suffering from constipation","Output":"Constipation happens when the colon absorbs too much water. This can occur if the muscles in the colon are contracting slowly or poorly"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb19\")","﻿Class":"Complaint","Focus":"abdominal cramps","Output":"Not all forms of abdominal pain are preventable. However"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb1a\")","﻿Class":"Complaint","Focus":"loss of appetite","Output":"A doctor may prescribe certain medications to help increase appetite and reduce other symptoms"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb1b\")","﻿Class":"Complaint","Focus":"watery stool","Output":"Multiple causes and contributing factors can lead to liquid bowel movements. Examples include: acute illness"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb1c\")","﻿Class":"Complaint","Focus":" bloody stool","Output":"Seeing a small amount of blood after wiping"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb1d\")","﻿Class":"Complaint","Focus":" bloody vomit","Output":"If you vomit blood"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb1e\")","﻿Class":"Complaint","Focus":"excessive thirst","Output":"Causes may include: eating salty or spicy foods illness strenuous exercise diarrhea vomiting burns significant loss of blood certain prescription medications"}
+{"_id":"ObjectId(\"5d42ea9d6fbaaa094113eb1f\")","﻿Class":"Complaint","Focus":" blurry vision","Output":"It can be a sign of other health problems"}
+{"_id":"ObjectId(\"5d42eab86fbaaa094113eb21\")","﻿Class":"Complaint","Focus":"muscle weakness","Output":"Many health conditions can cause muscle weakness. Examples include: chronic fatigue syndrome muscular dystrophies hypotonia"}

@@ -1,0 +1,45 @@
+ChatbotWebInterface package
+===========================
+
+Subpackages
+-----------
+
+.. toctree::
+
+   ChatbotWebInterface.templates
+
+Submodules
+----------
+
+ChatbotWebInterface.app module
+------------------------------
+
+.. automodule:: ChatbotWebInterface.app
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+ChatbotWebInterface.metrics3 module
+-----------------------------------
+
+.. automodule:: ChatbotWebInterface.metrics3
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+ChatbotWebInterface.response\_engine module
+-------------------------------------------
+
+.. automodule:: ChatbotWebInterface.response_engine
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: ChatbotWebInterface
+   :members:
+   :undoc-members:
+   :show-inheritance:

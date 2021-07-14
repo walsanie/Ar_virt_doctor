@@ -1,0 +1,60 @@
+
+<html>
+<title>Health Chatbot</title>
+<head >
+    <meta charset="utf-8">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link href="../static/css/style.css" rel="stylesheet" type="text/css" />
+    <script src="../static/js/chat.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+</head>
+
+<body>
+<div class="container">
+    <div id="left-side">
+        <!--
+        <font face="Georgia" color="#252F8C"><center><h3 id="description">This Chatbot covers only the health-care domain. <br>It was developed by a team from The National <br> Centre of AI and Big Data Tech.</h3></center></font>
+       -->
+        <font face="Georgia" color="#252F8C"><center><h3 id="description">روبوت دردشة متخصص في مجال الصحة العامة <br>تم تطويره بواسطة فريق من المركز الوطني للذكاء الاصطناعي والبيانات الضخمة في مدينة الملك عبدالعزيز للعلوم والتقنية.</h3></center></font>
+        <!--
+        <font face="Georgia" color="#252F8C"><center><h3 id="description">For more information, please contact walsanie[at]kacst[dot]edu[dot]sa </h3></center></font>
+        -->
+        <font face="Georgia" color="#252F8C"><center><h3 id="description"> :لمزيد من المعلومات الرجاء التواصل عبر البريد الإلكتروني </h3></center></font>
+        <font face="Georgia" color="#252F8C"><center><h3 id="description"> walsanie[at]kacst[dot]edu[dot]sa  </h3></center></font>
+    </div>
+
+    <div id="right-side">
+        <!--
+        <font face="Georgia" color="#252F8C"><h1 id="big-title">    Welcome!</h1></font>
+        -->
+        <font face="Georgia" color="#252F8C"><h1 id="big-title">   !مرحباً</h1></font>
+        <div class="chat">
+        <div class="chat-header clearfix">
+            <img src="../static/images/bot_icon.gif" style="border-radius: 50%;width:90px;height:90px;" />
+
+            <div class="chat-about">
+                <div class="chat-with">!تحدث مع روبوت الدردشة </div>
+            </div>
+            <i class="fa fa-star"></i>
+        </div> <!-- end chat-header -->
+
+        <div class="chat-history">
+            <ul>
+           </ul>
+       </div>
+
+       <div class="chat-message clearfix">
+           <input name="msg" id="user_in" placeholder ="اكتب رسالتك ...." rows="3">
+           <i class="fa fa-file-o"></i> &nbsp;&nbsp;&nbsp;
+           <i class="fa fa-file-image-o"></i>
+           <input id="sendButton" type="submit" value="إرسال" class="btn btn-info">
+       </div> <!-- end chat-message -->
+
+    </div> <!-- end chat -->
+
+    </div>
+</div> <!-- end container -->
+</body>
+
+</html>
